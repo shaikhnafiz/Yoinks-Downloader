@@ -1,5 +1,5 @@
 # 🚀 Yoinks Downloader - Windows Launcher
-
+See how to Install : https://youtu.be/6XbqijPA-QQ?si=uKbjxS-qMqYj8_T4
 > **Yoink any video. Paste. Yoink. Done.**
 
 A simple Windows launcher and wrapper for [Yoinks](https://github.com/pablostanley/yoinks), designed to make setup and usage seamless for Windows users.
